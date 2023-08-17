@@ -1,2 +1,2 @@
 import scipy
-scipy.special.cbrt(16)
+print(scipy.special.cbrt(16))
