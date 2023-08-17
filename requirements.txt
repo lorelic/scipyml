@@ -1,0 +1,12 @@
+beautifulsoup4
+keras
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+scrapy
+tensorflow
+torch
+torchaudio
+torchvision
