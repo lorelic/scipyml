@@ -6,7 +6,6 @@ pandas
 scikit-learn
 scipy
 scrapy
-tensorflow
 torch
 torchaudio
 torchvision
